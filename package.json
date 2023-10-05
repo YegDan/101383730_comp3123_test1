@@ -1,0 +1,19 @@
+{
+  "name": "101383730_comp3123_labtest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "app1": "nodemon question1/question-1.js",  
+    "app2": "nodemon question2/question-2.js",
+    "app3": "nodemon question3/question-3.js"
+  },
+  "keywords": [],
+  "author": "Yeganeh Daneshparvar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
